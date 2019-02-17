@@ -1,8 +1,3 @@
-/*
-created by :phani
-email: phani42@gmail.com
-*/
-
 import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
